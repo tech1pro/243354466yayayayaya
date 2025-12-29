@@ -1,0 +1,5 @@
+{
+  "name": "YT Transcript Researcher",
+  "description": "A professional analytical agent designed to aggregate YouTube transcript data, identify cross-video patterns, surface common confusions, and extract deep research insights.",
+  "requestFramePermissions": []
+}
